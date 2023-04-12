@@ -14,4 +14,4 @@
 
 ---
 
-For the little story, I just discovered that I could make this page using just the tools on github, no external code editor, no local folder) pif, paf, boum! ✨ it's magic! 🤩
+For the little story, I just discovered that I could make this page using just the tools on github, no external code editor, no local folder. Pif, paf, boum! ✨ it's magic! 🤩
