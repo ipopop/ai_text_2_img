@@ -6,7 +6,8 @@
 ## Here is a first test on the theme of the yeti
 ### 🚀 Live website : [🔗 demo](https://ipopop.github.io/ai_text_2_img/)
 
+---
 
 ## With the help of the 'AI' tool :
 
-### [replicate.com]"https://replicate.com/explore"
+### [replicate.com]("https://replicate.com/explore")
