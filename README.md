@@ -10,4 +10,4 @@
 
 ## With the help of the 'AI' tool :
 
-### [replicate.com]("https://replicate.com/explore")
+### [replicate.com](https://replicate.com/explore)
