@@ -75,7 +75,7 @@ h1:hover {
 
 .grid-item {
   width: 250px;
-  height: 170px;
+  height: 250px;
   border-radius: var(--radius);
   overflow: hidden;
   background-size: cover;
