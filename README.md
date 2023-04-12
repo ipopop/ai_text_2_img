@@ -11,3 +11,7 @@
 ## With the help of the 'AI' tool :
 
 ### [replicate.com](https://replicate.com/explore)
+
+---
+
+For the little story, I just discovered that I could make this page using just the tools on github, no external code editor, no local folder) pif, paf, boum! ✨ it's magic! 🤩
